@@ -6,5 +6,8 @@ using namespace std;
 
 int main()
 {
-	
+	/*
+	lkjshfdlsaugasu
+	kljrhaower
+	*/
 }
